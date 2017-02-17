@@ -1,5 +1,7 @@
 # CarND Term1 Starter Kit
 
+Base copy of the Udacity Self-Driving Car nanodegree. I will use this repo for learning and testing before projects. Each project will be it's own repo.
+
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 The purpose of this project is to provide unified software dependency support for students enrolled in Term 1 of the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
