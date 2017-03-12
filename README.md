@@ -1,8 +1,13 @@
 # CarND Term1 Starter Kit
 
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
 Base copy of the Udacity Self-Driving Car nanodegree. I will use this repo for learning and testing before projects. Each project will be it's own repo.
 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+Check out my projects using this starter:
+
+* [P1 - Detecting Lane Lines](https://github.com/SealedSaint/CarND-Term1-P1)
+* [notMNIST TensorFlow Lab](https://github.com/SealedSaint/CarND-Term1-TensorFlow-notMNIST)
 
 The purpose of this project is to provide unified software dependency support for students enrolled in Term 1 of the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
