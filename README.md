@@ -4,11 +4,6 @@
 
 Base copy of the Udacity Self-Driving Car nanodegree. I will use this repo for learning and testing before projects. Each project will be it's own repo.
 
-Check out my projects using this starter:
-
-* [P1 - Detecting Lane Lines](https://github.com/SealedSaint/CarND-Term1-P1)
-* [notMNIST TensorFlow Lab](https://github.com/SealedSaint/CarND-Term1-TensorFlow-notMNIST)
-
 The purpose of this project is to provide unified software dependency support for students enrolled in Term 1 of the [Udacity Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 Python 3 is used for entirety of term 1.
